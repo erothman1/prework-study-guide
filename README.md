@@ -1,6 +1,6 @@
 # prework-study-guide
 
-# <The Beginning of My Coding Journey!>
+# The Beginning of My Coding Journey!
 
 ## Description
 
